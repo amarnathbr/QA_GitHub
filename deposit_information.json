@@ -1,0 +1,13 @@
+{
+	"ContractParty" : "10168-0104024",
+	"DepositVersion" : "1.0.0",
+	"DepositName" : "Test Deposit2",
+	"Encryption" : {
+		"Toolname" : "Encryptor",
+		"Version" : "1.0",
+		"Key" : "9087654321",
+		"Hardware" : "Linux",
+		"Software" : "Kelopatra",
+		"Other" : "test"
+	}
+}
